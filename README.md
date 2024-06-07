@@ -1,4 +1,4 @@
-# FirstButton_Chrome
+# FirstButton_Chrome_v3
 Chrome Extension by FirstButton
 
 This repository contains a V3 Manifest upgrade
